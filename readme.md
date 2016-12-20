@@ -25,14 +25,12 @@ Intstall this visual studio snow effect extension to feel more christmas atmosph
 ##Ver 0.1 (2016/12/19)Release Notes   
 change typing effect to snow effect   
 the 1.0 version maybe will be publish before christmas.(2016/12/25)   
-.   
-##Link to built Extension
-https://github.com/LiamMorrow/Visual-Studio-Power-Mode   
-Thanks to PowerMode , praise to PowerMode!   
-感謝PowerMode，讚嘆PowerMode!   
-.   
+.      
 ##Screenshot
 Demo : )  
 ![alt text](https://raw.githubusercontent.com/andy840119/VisualStudioSnowEffect/master/VisualStudioSnowEffect/Effect001.gif "Screenshot")
 
 ![alt text](https://raw.githubusercontent.com/andy840119/VisualStudioSnowEffect/master/VisualStudioSnowEffect/Effect002.gif "Screenshot")
+.
+##Source Code
+https://github.com/andy840119/VisualStudioSnowEffect
