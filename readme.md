@@ -14,6 +14,12 @@ Intstall this visual studio snow effect extension to feel more christmas atmosph
 [日本語]    
 日本語訳は存在しません : (   
 .   
+##Ver 1.4 (2016/12/22)Release Notes   
+目前把版本弄穩定一點
+重新修改命名，一些設定部分也有整理過 : )
+.
+下一版會把一些沒有實作的功能補齊
+.
 ##Ver 1.0 (2016/12/20)Release Notes   
 \Published/   
 這一版主要是把功能加好加滿  
